@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Meetup",
+    "\\src\\components\\router",
+    "\\src\\components\\Store",
+    "\\src\\components\\User",
+    "\\src\\plugins"
+  ],
+  "SelectedNode": "\\src\\components\\Meetup\\CreateNewMeetup.vue",
+  "PreviewInSolutionExplorer": false
+}
